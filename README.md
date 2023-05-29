@@ -8,7 +8,7 @@ Frontend:
 Reactjs
 Tailwindcss
 
-SỬ DỤNG LƯU TRŨ DATABASE: 
+DATABASE: 
 MONGGO_DB
 MYSQL
 

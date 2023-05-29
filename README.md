@@ -10,7 +10,7 @@ Frontend:
 Reactjs
 Tailwindcss
 
-DATABASE: 
+Database: 
 Mongo_DB
 MySQL
 

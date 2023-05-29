@@ -1,6 +1,7 @@
 # Final-Project-VTI-2023
-1.Trang web quizgame sản phầm đầu tay về trò chơi giải đố các câu hỏi 
+Trang web quizgame sản phầm đầu tay về trò chơi giải đố các câu hỏi 
 
+1.Thành phần chính:
 Backend : 
 SpringBoot (framework)
 Nodejs (platform)
@@ -10,8 +11,8 @@ Reactjs
 Tailwindcss
 
 DATABASE: 
-MONGGO_DB
-MYSQL
+Mongo_DB
+MySQL
 
 2.các sơ đồ:
 Sơ đồ trường hợp (Usecase diagram)

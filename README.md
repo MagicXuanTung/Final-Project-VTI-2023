@@ -31,21 +31,21 @@ https://www.canva.com/design/DAFgAXdPfQc/Jf3ug5phhb9doVKod3tBOQ/edit?utm_content
 3 Các công nghệ mở rộng
 
 Backend:
-Spring Boot
-MongoDB 
-MySQL
-JWT (JSON WEB TOKEN)
-H2 database
-Lombok
-Spring security
+Spring Boot|
+MongoDB|
+MySQL|
+JWT (JSON WEB TOKEN)|
+H2 database|
+Lombok|
+Spring security|
 
 Frontend:
-Nodejs
-Reactjs
-Tailwindcss
-Axios
-Ant. design
-animate.css
-bootstrap
-heroicons
+Nodejs|
+Reactjs|
+Tailwindcss|
+Axios|
+Ant. design|
+animate.css|
+bootstrap|
+heroicons|
 
